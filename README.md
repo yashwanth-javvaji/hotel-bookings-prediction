@@ -19,7 +19,7 @@ To use the developed machine learning model for predicting Airbnb bookings, foll
 <br />```python main.py```
 
 ## Data
-The data used for this project is not included in this repository due to licensing restrictions. However, you can obtain the dataset from [source](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand) and place it in the data/ directory.
+The data used for this project is not included in this repository due to licensing restrictions. However, you can obtain the dataset from [kaggle](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand) and place it in the data/ directory.
 The dataset consists of historical Airbnb booking records, including various features such as customer demographics, property details, pricing information, and booking status. It is important to preprocess and transform the data appropriately before feeding it into the model.
 
 ## Model Development
